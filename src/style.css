@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: blue;
+}
+.excuse {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+
+.button {
+  font-family: sans-serif;
+  height: 75px;
+  width: 150px;
+  background-color: grey;
+  color: black;
+}
+.omg {
+  color: antiquewhite;
+}
+img {
+  height: 300px;
+  width: 200px;
+}
